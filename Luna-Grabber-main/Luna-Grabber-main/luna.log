@@ -1,0 +1,91 @@
+[admin.py:29] - 2024-01-05 16:03:06,806 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:559] - 2024-01-05 16:03:06,806 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2024-01-05 16:03:07,082 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\Jacob M\\AppData\\Local\\Programs\\Python\\Python312\\pythonw.exe', 'C:\\Users\\Jacob M\\Desktop\\Luna-Grabber-main\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2024-01-05 16:03:07,082 - INFO - Running command 'C:\\Users\\Jacob M\\AppData\\Local\\Programs\\Python\\Python312\\pythonw.exe' - '"C:\\Users\\Jacob M\\Desktop\\Luna-Grabber-main\\Luna-Grabber-main\\builder.pyw"'
+[admin.py:29] - 2024-01-05 16:03:09,880 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,314 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,314 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,314 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,314 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,314 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,314 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,314 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,314 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,314 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,315 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,315 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,315 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,315 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,315 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,315 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,315 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,315 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,315 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,315 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,315 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,315 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,315 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,315 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-01-05 16:03:10,315 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.pyw:420] - 2024-01-05 16:04:59,828 - INFO - Retrieved filename: JJsploit-injector
+[builder.pyw:389] - 2024-01-05 16:04:59,828 - INFO - Changed filetype: pyinstaller
+[builder.pyw:389] - 2024-01-05 16:04:59,828 - INFO - Changed filetype: pyinstaller
+[builder.pyw:440] - 2024-01-05 16:04:59,829 - INFO - Successfully changed config
+[builder.pyw:522] - 2024-01-05 16:05:00,032 - INFO - Successfully obfuscated file: JJsploit-injector.py
+[builder.pyw:486] - 2024-01-05 16:05:38,863 - INFO - Successfully compiled JJsploit-injector.exe with pyinstaller
+[builder.pyw:498] - 2024-01-05 16:05:39,667 - INFO - Successfully removed directory: ./build
+[builder.pyw:507] - 2024-01-05 16:05:39,668 - INFO - Successfully removed file: ./JJsploit-injector.py
+[builder.pyw:507] - 2024-01-05 16:05:39,668 - INFO - Successfully removed file: ./JJsploit-injector.spec
+[builder.pyw:507] - 2024-01-05 16:05:39,669 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.pyw:420] - 2024-01-05 16:06:00,675 - INFO - Retrieved filename: JJsploit-injector
+[builder.pyw:389] - 2024-01-05 16:06:00,675 - INFO - Changed filetype: pyinstaller
+[builder.pyw:389] - 2024-01-05 16:06:00,675 - INFO - Changed filetype: pyinstaller
+[builder.pyw:440] - 2024-01-05 16:06:00,676 - INFO - Successfully changed config
+[builder.pyw:522] - 2024-01-05 16:06:00,856 - INFO - Successfully obfuscated file: JJsploit-injector.py
+[builder.pyw:486] - 2024-01-05 16:06:09,853 - INFO - Successfully compiled JJsploit-injector.exe with pyinstaller
+[builder.pyw:498] - 2024-01-05 16:06:10,093 - INFO - Successfully removed directory: ./build
+[builder.pyw:507] - 2024-01-05 16:06:10,093 - INFO - Successfully removed file: ./JJsploit-injector.py
+[builder.pyw:507] - 2024-01-05 16:06:10,094 - INFO - Successfully removed file: ./JJsploit-injector.spec
+[builder.pyw:507] - 2024-01-05 16:06:10,094 - INFO - Successfully removed file: ./tools/upx.exe
+[connectionpool.py:1052] - 2024-01-05 16:06:56,076 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2024-01-05 16:06:56,491 - DEBUG - https://discord.com:443 "GET /api/webhooks/1192627339805331466/xrvJNOC6gWuoXoR6TKlQMgKKxGFrHo5fmgpXd6Gr6104NBStCLT3UfPSgDRTYmJFKqvr HTTP/1.1" 200 None
+[builder.pyw:420] - 2024-01-05 16:07:29,780 - INFO - Retrieved filename: JJsploit-injector
+[builder.pyw:389] - 2024-01-05 16:07:29,780 - INFO - Changed filetype: pyinstaller
+[builder.pyw:389] - 2024-01-05 16:07:29,780 - INFO - Changed filetype: pyinstaller
+[builder.pyw:440] - 2024-01-05 16:07:29,782 - INFO - Successfully changed config
+[builder.pyw:522] - 2024-01-05 16:07:29,973 - INFO - Successfully obfuscated file: JJsploit-injector.py
+[builder.pyw:486] - 2024-01-05 16:08:05,629 - INFO - Successfully compiled JJsploit-injector.exe with pyinstaller
+[builder.pyw:498] - 2024-01-05 16:08:05,969 - INFO - Successfully removed directory: ./build
+[builder.pyw:507] - 2024-01-05 16:08:05,969 - INFO - Successfully removed file: ./JJsploit-injector.py
+[builder.pyw:507] - 2024-01-05 16:08:05,970 - INFO - Successfully removed file: ./JJsploit-injector.spec
+[builder.pyw:507] - 2024-01-05 16:08:05,970 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.pyw:420] - 2024-01-05 16:09:59,489 - INFO - Retrieved filename: JJsploit-injector
+[builder.pyw:389] - 2024-01-05 16:09:59,490 - INFO - Changed filetype: pyinstaller
+[builder.pyw:389] - 2024-01-05 16:09:59,490 - INFO - Changed filetype: pyinstaller
+[builder.pyw:440] - 2024-01-05 16:09:59,491 - INFO - Successfully changed config
+[builder.pyw:522] - 2024-01-05 16:09:59,722 - INFO - Successfully obfuscated file: JJsploit-injector.py
+[builder.pyw:486] - 2024-01-05 16:11:00,973 - INFO - Successfully compiled JJsploit-injector.exe with pyinstaller
+[builder.pyw:498] - 2024-01-05 16:11:01,515 - INFO - Successfully removed directory: ./build
+[builder.pyw:507] - 2024-01-05 16:11:01,515 - INFO - Successfully removed file: ./JJsploit-injector.py
+[builder.pyw:507] - 2024-01-05 16:11:01,516 - INFO - Successfully removed file: ./JJsploit-injector.spec
+[builder.pyw:507] - 2024-01-05 16:11:01,517 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.pyw:420] - 2024-01-05 16:12:21,394 - INFO - Retrieved filename: JJsploit-injector
+[builder.pyw:389] - 2024-01-05 16:12:21,394 - INFO - Changed filetype: pyinstaller
+[builder.pyw:389] - 2024-01-05 16:12:21,394 - INFO - Changed filetype: pyinstaller
+[builder.pyw:440] - 2024-01-05 16:12:21,395 - INFO - Successfully changed config
+[builder.pyw:522] - 2024-01-05 16:12:21,582 - INFO - Successfully obfuscated file: JJsploit-injector.py
+[builder.pyw:486] - 2024-01-05 16:12:57,090 - INFO - Successfully compiled JJsploit-injector.exe with pyinstaller
+[builder.pyw:498] - 2024-01-05 16:12:57,546 - INFO - Successfully removed directory: ./build
+[builder.pyw:507] - 2024-01-05 16:12:57,547 - INFO - Successfully removed file: ./JJsploit-injector.py
+[builder.pyw:507] - 2024-01-05 16:12:57,547 - INFO - Successfully removed file: ./JJsploit-injector.spec
+[builder.pyw:507] - 2024-01-05 16:12:57,548 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.pyw:420] - 2024-01-05 16:23:26,276 - INFO - Retrieved filename: Luna-Grabber-Builder
+[builder.pyw:389] - 2024-01-05 16:23:26,277 - INFO - Changed filetype: pyinstaller
+[builder.pyw:389] - 2024-01-05 16:23:26,277 - INFO - Changed filetype: pyinstaller
+[builder.pyw:443] - 2024-01-05 16:23:26,955 - ERROR - Error with config: [Errno 22] Invalid argument: 'C:\\Users\\Jacob M\\Desktop\\Luna-Grabber-main\\Luna-Grabber-main\\luna.py'
+[builder.pyw:524] - 2024-01-05 16:23:26,955 - ERROR - Error with writing and obfuscating file: write() argument must be str, not None
+[builder.pyw:486] - 2024-01-05 16:24:05,944 - INFO - Successfully compiled Luna-Grabber-Builder.exe with pyinstaller
+[builder.pyw:498] - 2024-01-05 16:24:06,785 - INFO - Successfully removed directory: ./build
+[builder.pyw:507] - 2024-01-05 16:24:06,786 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.pyw:507] - 2024-01-05 16:24:06,787 - INFO - Successfully removed file: ./Luna-Grabber-Builder.spec
+[builder.pyw:507] - 2024-01-05 16:24:06,787 - INFO - Successfully removed file: ./Luna-Grabber-Builder.py
